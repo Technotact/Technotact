@@ -6,75 +6,92 @@
 
 # 👋 Hi, I'm Heemangshu
 
-⚡ Firmware Development Engineer
-🔧 Building systems close to hardware
+Firmware Development Engineer
 
 ---
 
-## 🧠 About
+## 🌐 Socials:
 
-Firmware engineer working close to hardware, building low-level systems with a focus on performance, timing, and reliability.
-Experience developing peripheral drivers, real-time control logic, and system-level integrations on resource-constrained MCUs.
-Interested in leveraging silicon capabilities for efficient, deterministic embedded systems.
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ARM-Cortex--M-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STM32-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embedded-Systems-darkgreen?style=for-the-badge"/>
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧩 Systems & Platforms
+## 💻 Tech Stack:
 
-* STM32, ATmega328P, ESP8266, NXP MCX
-* ARM Cortex-M4 / M33, AVR
+### 🧠 Core
 
----
-
-## 🔌 Interfaces & Peripherals
-
-* ADC, Timers, DMA, GPIO, Interrupts
-* UART, SPI, I2C, LoRa, WiFi, Bluetooth
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 
 ---
 
-## 🛠 Tooling & Debug
+### ⚙️ Embedded Platforms
 
-* STM32CubeIDE, Keil, VS Code
-* Oscilloscope, Logic Analyzer (Saleae)
-* J-Link, ST-Link
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+![ATmega328P](https://img.shields.io/badge/ATmega328P-006400?style=for-the-badge)
+![ESP8266](https://img.shields.io/badge/ESP8266-444444?style=for-the-badge)
+![NXP MCX](https://img.shields.io/badge/NXP-MCX-orange?style=for-the-badge)
+
+---
+
+### 🧠 Architectures
+
+![ARM Cortex M4](https://img.shields.io/badge/ARM-Cortex--M4-red?style=for-the-badge)
+![ARM Cortex M33](https://img.shields.io/badge/ARM-Cortex--M33-darkred?style=for-the-badge)
+![AVR](https://img.shields.io/badge/AVR-1E90FF?style=for-the-badge)
+
+---
+
+### 🔌 Peripherals
+
+![ADC](https://img.shields.io/badge/ADC-228B22?style=for-the-badge)
+![Timers](https://img.shields.io/badge/Timers-1E90FF?style=for-the-badge)
+![DMA](https://img.shields.io/badge/DMA-800080?style=for-the-badge)
+![GPIO](https://img.shields.io/badge/GPIO-696969?style=for-the-badge)
+![Interrupts](https://img.shields.io/badge/Interrupts-FF0000?style=for-the-badge)
+
+---
+
+### 📡 Protocols
+
+![UART](https://img.shields.io/badge/UART-1E90FF?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-FF8C00?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-32CD32?style=for-the-badge)
+![LoRa](https://img.shields.io/badge/LoRa-000000?style=for-the-badge)
+![WiFi](https://img.shields.io/badge/WiFi-808080?style=for-the-badge)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-1E90FF?style=for-the-badge)
+
+---
+
+### 🛠 Tools & Debug
+
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-00008B?style=for-the-badge)
+![Keil](https://img.shields.io/badge/Keil-800080?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-000000?style=for-the-badge)
+![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-808080?style=for-the-badge)
+![J-Link](https://img.shields.io/badge/J--Link-FF0000?style=for-the-badge)
+![ST-Link](https://img.shields.io/badge/ST--Link-0000FF?style=for-the-badge)
 
 ---
 
 ## 🚀 Work Highlights
 
 * Board bring-up across STM32, NXP, and Microchip platforms, leveraging AI-assisted tooling for faster system initialization and validation
-
 * Built CLI-based workflows for flashing, debugging, and AI-assisted system interaction, enabling automated debugging pipelines
-
 * Debugged complex hardware–software integration issues across peripherals, boot sequences, and communication stacks
-
 * Developed AI-driven debugging agents and hardware-aware tooling for embedded system introspection and automation
-
 * Designed and debugged synchronized actuator control systems for robotic applications with precise timing constraints
-
 * Implemented deterministic real-time firmware using interrupt-driven architectures and efficient scheduling
-
 * Contributed to system architecture, subsystem integration, analog filter design, and end-to-end validation
-
 * Developed STM32 firmware for power electronics systems using DMA-driven data paths and interrupt-based processing
-
 * Built embedded systems for wearables and consumer devices using C, bare-metal, and assembly
-
 * Focused on low-level driver development, performance optimization, and deep debugging across AVR and ARM platforms
-
 
 ---
 
@@ -86,7 +103,11 @@ Interested in leveraging silicon capabilities for efficient, deterministic embed
 
 ---
 
-## 🔥 Activity
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
