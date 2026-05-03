@@ -109,7 +109,7 @@ Focused in leveraging silicon capabilities to build efficient, reliable, and hig
 * Implemented deterministic real-time firmware using interrupt-driven architectures and efficient scheduling
 * Contributed to system architecture, subsystem integration, analog filter design, and end-to-end validation
 * Developed STM32 firmware for power electronics systems using DMA-driven data paths and interrupt-based processing
-* Built embedded systems for wearables and consumer devices using C, bare-metal, and assembly
+* Built embedded systems for wearables and consumer devices
 * Focused on low-level driver development, performance optimization, and deep debugging across AVR and ARM platforms
 
 ---
