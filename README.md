@@ -13,7 +13,7 @@ Firmware Development Engineer
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/heemangshu/)">
+  <a href="(https://www.linkedin.com/in/heemangshu/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -24,9 +24,11 @@ Firmware Development Engineer
 
 ### 🧠 Core
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
+![Bare Metal](https://img.shields.io/badge/Bare--Metal-222222?style=for-the-badge)
+![HAL](https://img.shields.io/badge/HAL-004080?style=for-the-badge)
 
 ---
 
@@ -35,7 +37,8 @@ Firmware Development Engineer
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
 ![ATmega328P](https://img.shields.io/badge/ATmega328P-006400?style=for-the-badge)
 ![ESP8266](https://img.shields.io/badge/ESP8266-444444?style=for-the-badge)
-![NXP MCX](https://img.shields.io/badge/NXP-MCX-orange?style=for-the-badge)
+![ESP-01](https://img.shields.io/badge/ESP--01-444444?style=for-the-badge)
+![NXP FRDM](https://img.shields.io/badge/NXP-MCX-orange?style=for-the-badge)
 
 ---
 
@@ -68,15 +71,20 @@ Firmware Development Engineer
 
 ---
 
-### 🛠 Tools & Debug
+### 🛠 Debugging
 
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-00008B?style=for-the-badge)
-![Keil](https://img.shields.io/badge/Keil-800080?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-000000?style=for-the-badge)
 ![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-808080?style=for-the-badge)
 ![J-Link](https://img.shields.io/badge/J--Link-FF0000?style=for-the-badge)
 ![ST-Link](https://img.shields.io/badge/ST--Link-0000FF?style=for-the-badge)
+![MCU-Link OB (CMSIS-DAP)](https://img.shields.io/badge/MCU--Link%20OB%20(CMSIS--DAP)-orange?style=for-the-badge)
+
+---
+
+### 🔬 Analog & Hardware
+
+![RC Filters](https://img.shields.io/badge/RC%20Filters-2E8B57?style=for-the-badge)
+![Debounce Circuits](https://img.shields.io/badge/Debounce%20Circuits-556B2F?style=for-the-badge)
 
 ---
 
