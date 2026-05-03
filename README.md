@@ -38,7 +38,7 @@ Firmware Development Engineer
 ![ATmega328P](https://img.shields.io/badge/ATmega328P-006400?style=for-the-badge)
 ![ESP8266](https://img.shields.io/badge/ESP8266-444444?style=for-the-badge)
 ![ESP-01](https://img.shields.io/badge/ESP--01-444444?style=for-the-badge)
-![NXP FRDM](https://img.shields.io/badge/NXP-MCX-orange?style=for-the-badge)
+![NXP FRDM](https://img.shields.io/badge/NXP-FRDM-orange?style=for-the-badge)
 
 ---
 
@@ -102,15 +102,3 @@ Firmware Development Engineer
 * Focused on low-level driver development, performance optimization, and deep debugging across AVR and ARM platforms
 
 ---
-
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Connect
-
-* LinkedIn: [YOUR_LINK](https://www.linkedin.com/in/heemangshu/)
