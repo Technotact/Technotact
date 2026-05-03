@@ -4,16 +4,27 @@
 
 ---
 
+---
+
 # 👋 Hi, I'm Heemangshu
 
-Firmware Development Engineer
+⚡ Firmware Development Engineer
+🔧 Building systems close to hardware
+
+---
+
+## 🧠 About Me
+
+Firmware engineer working at the intersection of hardware and software, focused on performance, timing, and deterministic system behavior.
+Experienced in developing low-level drivers, real-time control logic, and tightly integrated embedded systems on resource-constrained MCUs.
+Focused in leveraging silicon capabilities to build efficient, reliable, and high-performance systems.
 
 ---
 
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/heemangshu/)">
+  <a href="https://www.linkedin.com/in/heemangshu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
