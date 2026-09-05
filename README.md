@@ -62,9 +62,6 @@ Focused in leveraging silicon capabilities to build efficient, reliable, and hig
 ![ARMv7E-M](https://img.shields.io/badge/ARMv7E--M%20%7C%20Cortex--M4-red?style=for-the-badge)
 ![ARMv8-M](https://img.shields.io/badge/ARMv8--M%20%7C%20Cortex--M33-darkred?style=for-the-badge)
 
-**Architectures:**
-`AVR` · `ARMv7E-M (Cortex-M4)` · `ARMv8-M (Cortex-M33)`
-
 ---
 
 ### 🔌 Peripherals & Low-Level Hardware
@@ -115,7 +112,6 @@ Focused in leveraging silicon capabilities to build efficient, reliable, and hig
 ![TouchGFX](https://img.shields.io/badge/TouchGFX-03234B?style=for-the-badge)
 ![DWIN DGUS](https://img.shields.io/badge/DWIN%20DGUS-FF6600?style=for-the-badge)
 
-**HMI:** `TouchGFX` · `DWIN Touch Interface Display` · `DGUS UI`
 
 ---
 
@@ -156,5 +152,7 @@ Focused in leveraging silicon capabilities to build efficient, reliable, and hig
 * Developed STM32 firmware for power electronics systems using DMA-driven data paths and interrupt-based processing
 * Built embedded systems for wearables and consumer devices
 * Focused on low-level driver development, performance optimization, and deep debugging across AVR and ARM platforms
+* Integration of Oscilloscope, Logic Analyser, Power Profilers to Agentic Environments.
+
 
 ---
