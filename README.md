@@ -31,71 +31,116 @@ Focused in leveraging silicon capabilities to build efficient, reliable, and hig
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
-### 🧠 Core
+### 🧠 Languages & Firmware
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-1A1A1A?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Bare Metal](https://img.shields.io/badge/Bare--Metal-222222?style=for-the-badge)
 ![HAL](https://img.shields.io/badge/HAL-004080?style=for-the-badge)
 
 ---
 
-### ⚙️ Embedded Platforms
+### ⚙️ Embedded Platforms & Chipsets
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
 ![ATmega328P](https://img.shields.io/badge/ATmega328P-006400?style=for-the-badge)
-![ESP8266](https://img.shields.io/badge/ESP8266-444444?style=for-the-badge)
-![ESP-01](https://img.shields.io/badge/ESP--01-444444?style=for-the-badge)
-![NXP FRDM](https://img.shields.io/badge/NXP-FRDM-orange?style=for-the-badge)
+![ESP8266](https://img.shields.io/badge/ESP8266%20%7C%20ESP--01-444444?style=for-the-badge)
+![NXP MCXA153](https://img.shields.io/badge/NXP%20MCXA153-orange?style=for-the-badge)
+![Nordic nRF54](https://img.shields.io/badge/Nordic%20nRF54-CC0000?style=for-the-badge)
 
 ---
 
-### 🧠 Architectures
+### 🧠 CPU Architectures
 
-![ARM Cortex M4](https://img.shields.io/badge/ARM-Cortex--M4-red?style=for-the-badge)
-![ARM Cortex M33](https://img.shields.io/badge/ARM-Cortex--M33-darkred?style=for-the-badge)
 ![AVR](https://img.shields.io/badge/AVR-1E90FF?style=for-the-badge)
+![ARMv7E-M](https://img.shields.io/badge/ARMv7E--M%20%7C%20Cortex--M4-red?style=for-the-badge)
+![ARMv8-M](https://img.shields.io/badge/ARMv8--M%20%7C%20Cortex--M33-darkred?style=for-the-badge)
+
+**Architectures:**
+`AVR` · `ARMv7E-M (Cortex-M4)` · `ARMv8-M (Cortex-M33)`
 
 ---
 
-### 🔌 Peripherals
+### 🔌 Peripherals & Low-Level Hardware
 
-![ADC](https://img.shields.io/badge/ADC-228B22?style=for-the-badge)
 ![Timers](https://img.shields.io/badge/Timers-1E90FF?style=for-the-badge)
-![DMA](https://img.shields.io/badge/DMA-800080?style=for-the-badge)
-![GPIO](https://img.shields.io/badge/GPIO-696969?style=for-the-badge)
 ![Interrupts](https://img.shields.io/badge/Interrupts-FF0000?style=for-the-badge)
+![ADC](https://img.shields.io/badge/ADC-228B22?style=for-the-badge)
+![GPIO](https://img.shields.io/badge/GPIO-696969?style=for-the-badge)
+![DMA](https://img.shields.io/badge/DMA-800080?style=for-the-badge)
 
 ---
 
-### 📡 Protocols
+### 📡 Communication Protocols & Connectivity
 
 ![UART](https://img.shields.io/badge/UART-1E90FF?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-FF8C00?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-32CD32?style=for-the-badge)
-![LoRa](https://img.shields.io/badge/LoRa-000000?style=for-the-badge)
-![WiFi](https://img.shields.io/badge/WiFi-808080?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I²C-32CD32?style=for-the-badge)
+![WiFi](https://img.shields.io/badge/Wi--Fi-808080?style=for-the-badge)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-000000?style=for-the-badge)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-1E90FF?style=for-the-badge)
 
 ---
 
-### 🛠 Debugging
+### 🛠️ Development & Software Tools
 
-![Oscilloscope](https://img.shields.io/badge/Oscilloscope-000000?style=for-the-badge)
-![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-808080?style=for-the-badge)
-![J-Link](https://img.shields.io/badge/J--Link-FF0000?style=for-the-badge)
-![ST-Link](https://img.shields.io/badge/ST--Link-0000FF?style=for-the-badge)
-![MCU-Link OB (CMSIS-DAP)](https://img.shields.io/badge/MCU--Link%20OB%20(CMSIS--DAP)-orange?style=for-the-badge)
+![Keil](https://img.shields.io/badge/Keil-009639?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Arm Development Studio](https://img.shields.io/badge/Arm%20Development%20Studio-0091BD?style=for-the-badge)
 
 ---
 
-### 🔬 Analog & Hardware
+### 🔬 Instrumentation & Debugging
 
-![RC Filters](https://img.shields.io/badge/RC%20Filters-2E8B57?style=for-the-badge)
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-000000?style=for-the-badge)
+![Saleae](https://img.shields.io/badge/Saleae%20Logic%20Analyzer-6A5ACD?style=for-the-badge)
+![J-Link](https://img.shields.io/badge/J--Link-FF0000?style=for-the-badge)
+![ST-Link](https://img.shields.io/badge/ST--Link-0000FF?style=for-the-badge)
+![CMSIS-DAP](https://img.shields.io/badge/CMSIS--DAP-orange?style=for-the-badge)
+![SMU](https://img.shields.io/badge/SMU-555555?style=for-the-badge)
+![Power Profiler](https://img.shields.io/badge/Power%20Profiler-228B22?style=for-the-badge)
+
+---
+
+### 🖥️ HMI & Display Technologies
+
+![TouchGFX](https://img.shields.io/badge/TouchGFX-03234B?style=for-the-badge)
+![DWIN DGUS](https://img.shields.io/badge/DWIN%20DGUS-FF6600?style=for-the-badge)
+
+**HMI:** `TouchGFX` · `DWIN Touch Interface Display` · `DGUS UI`
+
+---
+
+### 🔬 Analog & Hardware Design
+
+![RC Filters](https://img.shields.io/badge/RC%20Filter%20Circuits-2E8B57?style=for-the-badge)
 ![Debounce Circuits](https://img.shields.io/badge/Debounce%20Circuits-556B2F?style=for-the-badge)
+
+---
+
+### 🤖 AI Engineering
+
+![LLM](https://img.shields.io/badge/LLM--Assisted%20Firmware%20Development-6C3483?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation%20Workflows-5B2C6F?style=for-the-badge)
+![Code Harnesses](https://img.shields.io/badge/Code%20Harnesses-34495E?style=for-the-badge)
+![System Validation](https://img.shields.io/badge/System%20Validation-1B4F72?style=for-the-badge)
+
+---
+
+### 🧩 AI Tooling & Developer Automation
+
+![Embedded AI](https://img.shields.io/badge/Embedded%20AI%20Tools-512DA8?style=for-the-badge)
+![Debugging Agents](https://img.shields.io/badge/Debugging%20Agents-6A1B9A?style=for-the-badge)
+![CLI Tools](https://img.shields.io/badge/CLI%20Tools-2F4F4F?style=for-the-badge)
+![Automation Pipelines](https://img.shields.io/badge/Automation%20Pipelines-455A64?style=for-the-badge)
 
 ---
 
